@@ -1,0 +1,54 @@
+body {
+    font-family: Montserrat, Arial, sans-serif;
+    background-color: orange;
+    width: 75%;
+    /* border: 3px white solid; */
+    margin: 0 auto;
+    padding: 3em 5%;
+}
+
+header {
+    height: 3em;
+    margin-bottom: 0;
+}
+
+.nav li {
+    display: inline-block;
+}
+
+.nav .middle {
+    margin: 0 1em;
+}
+
+.nav {
+    padding: 0;
+}
+
+h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+figure {
+    margin: 1em auto;
+    width: 100%
+}
+
+figcaption {
+    padding: 0 1em;
+}
+
+h2 {
+    margin-top: 1.5em;
+}
+
+ol {
+    width: 50%;
+    background-color: white;
+    padding: 1em 3em;
+    border: black solid 5px;
+}
+
+ol li {
+    margin: 1em 0;
+}
